@@ -89,5 +89,5 @@ print(df)
 Contributions are always welcome! Please fork the project, create a new branch, make your changes, and submit a pull request. Ensure your changes do not break existing functionality, and add relevant tests if necessary.
 
 ### License
-This project is licensed under the terms of the **GNU GENERAL PUBLIC LICENSE**. See the `LICENSE` file for more details.
+   This project is licensed under the terms of the **MIT LICENSE**. See the `LICENSE` file for more details.
 
