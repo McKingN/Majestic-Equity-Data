@@ -20,7 +20,7 @@ The **MagesticEquityData** class helps you retrieve and analyze ETF data based o
    ```
 2. Navigate to the project directory:
    ```bash
-   cd MagesticEquityData
+   cd Majestic-Equity-Data
    ```
 3. Create a virtual environment (recommended) and activate it:
    ```bash
