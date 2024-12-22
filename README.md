@@ -1,3 +1,7 @@
+'''
+Author : Mardoche Clabessi/ @McKingN
+'''
+
 ## Majestic-Equity-Data
 
 Welcome to the **MagesticEquityData** project! This project provides tools to process and analyze ETF (Exchange-Traded Fund) data, including prices and stock weights. It is organized into a clean structure to make it easy to understand and maintain.
